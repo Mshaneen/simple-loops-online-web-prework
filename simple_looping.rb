@@ -14,7 +14,7 @@ def times_iterator(number_of_times)
   end 
 end 
 
-def times_iterator(number_of_times)
+counter = 0 
   while counter == (number_of_times)
   puts "Welcome to Flatiron School's Web Development Course!"
   counter += 1
